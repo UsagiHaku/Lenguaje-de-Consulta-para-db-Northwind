@@ -25,7 +25,7 @@
 		<h2>Realiza una consulta</h2>
 		</div>		
 		<div class="container">
-		<form class="form" action="main1.php">
+		<form class="form" action="main.php">
       		<input name="search" class="main1" type="text" placeholder="¿Qué deseas buscar?">
       		<input class="send" type="submit" value="Consultar">
     	</form>
