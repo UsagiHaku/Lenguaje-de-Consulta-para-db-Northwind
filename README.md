@@ -31,8 +31,10 @@ de los campos por omisión
 Se pueden indicar n campos pero tienen que ser todos de una misma tabla. Esta función no requiere ningún operador e irá al final de la cadena de consulta  
 **Papas Potato AND NOT Chips AND CADENA (con chile) OR PATRON (sabri) CAMPOS (products.description)**
 
+#### Imágenes:
+![img1](https://github.com/UsagiHaku/Lenguaje-de-Consulta-para-db-Northwind/blob/main/Captura%20de%20Pantalla%202021-01-04%20a%20la(s)%2011.24.07.png "Imagen 1")  
+![img2](https://github.com/UsagiHaku/Lenguaje-de-Consulta-para-db-Northwind/blob/main/Captura%20de%20Pantalla%202021-01-04%20a%20la(s)%2011.24.01.png "Imagen 2")
+
 #### Herramientas:  
 https://github.com/dalers/mywind
-
-
 
