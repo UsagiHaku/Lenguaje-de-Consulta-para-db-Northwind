@@ -1,4 +1,4 @@
-# Lenguaje-de-Consulta-para-db-Northwind
+# Lenguaje de Consulta para la base de datos de Northwind
  Lenguaje de consulta para una appWeb que usa la base de datos Northwind. La aplicación consta de un formulario con una caja de texto y un botón de envío.
 
 La aplicación Web está hecha en PHP-MySQL y consta de un formulario con una caja de texto y un botón de envío. El usuario proporcionará una cadena de consulta que
@@ -35,6 +35,42 @@ Se pueden indicar n campos pero tienen que ser todos de una misma tabla. Esta fu
 ![img1](https://github.com/UsagiHaku/Lenguaje-de-Consulta-para-db-Northwind/blob/main/Captura%20de%20Pantalla%202021-01-04%20a%20la(s)%2011.24.07.png "Imagen 1")  
 ![img2](https://github.com/UsagiHaku/Lenguaje-de-Consulta-para-db-Northwind/blob/main/Captura%20de%20Pantalla%202021-01-04%20a%20la(s)%2011.24.01.png "Imagen 2")
 
-#### Herramientas:  
+## Instalación 🔧
+
+#### Instalación de PHP en Mac usando la terminal (PHP 7.3)
+
+```
+curl -s https://php-osx.liip.ch/install.sh | bash -s 7.3
+```
+#### Instalación de PHP en Linux usando la terminal (PHP 5)
+
+```
+apt-get install php5-common libapache2-mod-php5 php5-cli
+```
+
+#### Más información sobre el proceso de instalación
+https://www.geeksforgeeks.org/how-to-execute-php-code-using-command-line/  
+https://www.php.net/manual/es/install.php
+
+
+## Ejecución 🔧
+
+Para correr el proyecto, usamos el siguiente comando:
+
+```
+php file_name.php
+
+```
+Podemos iniciar el servidor para probar el código php usando el siguiente comando:
+
+```
+php -S localhost:8080 
+```
+
+## Herrramientas 🛠️
+
 https://github.com/dalers/mywind
+https://www.mysqltutorial.org/basic-mysql-tutorial.aspx
+https://www.php.net/
+
 
