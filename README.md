@@ -69,8 +69,8 @@ php -S localhost:8080
 
 ## Herrramientas 🛠️
 
-https://github.com/dalers/mywind
-https://www.mysqltutorial.org/basic-mysql-tutorial.aspx
-https://www.php.net/
+https://github.com/dalers/mywind  
+https://www.mysqltutorial.org/basic-mysql-tutorial.aspx  
+https://www.php.net/  
 
 
